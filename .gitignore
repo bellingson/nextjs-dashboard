@@ -6,6 +6,7 @@
 .pnp.js
 
 nextjs-dashboard.i*
+.env
 
 # testing
 /coverage
